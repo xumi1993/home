@@ -61,7 +61,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://xumi1993.github.io/home/home/resources/</guid>
-      <description>Softwares  Seispy: Python module of seismology and receiver functions   CCCN: Cross-Correlation for Coda and Noise   BQMail: Python scripts for requesting seismic data to IRIS DMC  SplitRFLab: A Matlab toolbox of processing receiver functions and shear wave spliting  STALTA: Detecting microearthquakes using STA/LTA method</description>
+      <description>Python  Seispy: Python module of seismology and receiver functions   CCCN: Cross-Correlation for Coda and Noise   BQMail: Python scripts to request seismic data from IRIS DMC 
+Matlab SplitRFLab: A Matlab toolbox of processing receiver functions and shear wave spliting 
+C/C++ STALTA: Detecting microearthquakes using STA/LTA method</description>
     </item>
     
     <item>
