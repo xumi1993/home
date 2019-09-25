@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Mijian Xu</title>
-    <link>https://xumi1993.github.io/home/home/</link>
+    <link>https://home.xumijian.me/home/</link>
     <description>Recent content in Homes on Mijian Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://xumi1993.github.io/home/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://home.xumijian.me/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Biography</title>
-      <link>https://xumi1993.github.io/home/home/about/</link>
+      <link>https://home.xumijian.me/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xumi1993.github.io/home/home/about/</guid>
+      <guid>https://home.xumijian.me/home/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://xumi1993.github.io/home/home/experience/</link>
+      <link>https://home.xumijian.me/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xumi1993.github.io/home/home/experience/</guid>
+      <guid>https://home.xumijian.me/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Researches</title>
-      <link>https://xumi1993.github.io/home/home/projects/</link>
+      <link>https://home.xumijian.me/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xumi1993.github.io/home/home/projects/</guid>
+      <guid>https://home.xumijian.me/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Featured Publications</title>
-      <link>https://xumi1993.github.io/home/home/featured/</link>
+      <link>https://home.xumijian.me/home/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xumi1993.github.io/home/home/featured/</guid>
+      <guid>https://home.xumijian.me/home/featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://xumi1993.github.io/home/home/publications/</link>
+      <link>https://home.xumijian.me/home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xumi1993.github.io/home/home/publications/</guid>
+      <guid>https://home.xumijian.me/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Softwares</title>
-      <link>https://xumi1993.github.io/home/home/resources/</link>
+      <link>https://home.xumijian.me/home/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xumi1993.github.io/home/home/resources/</guid>
+      <guid>https://home.xumijian.me/home/resources/</guid>
       <description>Python  Seispy: Python module of seismology and receiver functions   CCCN: Cross-Correlation for Coda and Noise   BQMail: Python scripts to request seismic data from IRIS DMC 
 Matlab SplitRFLab: A Matlab toolbox of processing receiver functions and shear wave spliting 
 C/C++ STALTA: Detecting microearthquakes using STA/LTA method</description>
@@ -68,19 +68,19 @@ C/C++ STALTA: Detecting microearthquakes using STA/LTA method</description>
     
     <item>
       <title>Popular Topics</title>
-      <link>https://xumi1993.github.io/home/home/tags/</link>
+      <link>https://home.xumijian.me/home/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xumi1993.github.io/home/home/tags/</guid>
+      <guid>https://home.xumijian.me/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://xumi1993.github.io/home/home/contact/</link>
+      <link>https://home.xumijian.me/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://xumi1993.github.io/home/home/contact/</guid>
+      <guid>https://home.xumijian.me/home/contact/</guid>
       <description></description>
     </item>
     
