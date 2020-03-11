@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hui Huang | Mijian Xu</title>
-    <link>home.xumijian.me/authors/hui-huang/</link>
-      <atom:link href="home.xumijian.me/authors/hui-huang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://home.xumijian.me/authors/hui-huang/</link>
+      <atom:link href="https://home.xumijian.me/authors/hui-huang/index.xml" rel="self" type="application/rss+xml" />
     <description>Hui Huang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 20 Jan 2018 00:00:00 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Hui Huang</title>
-      <link>home.xumijian.me/authors/hui-huang/</link>
+      <link>https://home.xumijian.me/authors/hui-huang/</link>
     </image>
     
     <item>
       <title>Insight into the subducted Indian slab and origin of the Tengchong volcano in SE Tibet from receiver function analysis</title>
-      <link>home.xumijian.me/publication/epsl2018/</link>
+      <link>https://home.xumijian.me/publication/epsl2018/</link>
       <pubDate>Sat, 20 Jan 2018 00:00:00 +0800</pubDate>
-      <guid>home.xumijian.me/publication/epsl2018/</guid>
+      <guid>https://home.xumijian.me/publication/epsl2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SplitRFLab: A MATLAB GUI toolbox for receiver function analysis based on SplitLab</title>
-      <link>home.xumijian.me/publication/es2016/</link>
+      <link>https://home.xumijian.me/publication/es2016/</link>
       <pubDate>Wed, 03 Feb 2016 23:15:13 +0800</pubDate>
-      <guid>home.xumijian.me/publication/es2016/</guid>
+      <guid>https://home.xumijian.me/publication/es2016/</guid>
       <description></description>
     </item>
     
