@@ -1,42 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mijian Xu</title>
-    <link>https://home.xumijian.me/tags/</link>
-    <description>Recent content in Tags on Mijian Xu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 03 Mar 2019 22:24:27 +0800</lastBuildDate>
-    
-	<atom:link href="https://home.xumijian.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Crustal Structure</title>
-      <link>https://home.xumijian.me/tags/crustal-structure/</link>
-      <pubDate>Sun, 03 Mar 2019 22:24:27 +0800</pubDate>
-      
-      <guid>https://home.xumijian.me/tags/crustal-structure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mantle Transition Zone</title>
-      <link>https://home.xumijian.me/tags/mantle-transition-zone/</link>
-      <pubDate>Sun, 03 Mar 2019 21:49:32 +0800</pubDate>
-      
-      <guid>https://home.xumijian.me/tags/mantle-transition-zone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://home.xumijian.me/tags/software/</link>
-      <pubDate>Sun, 03 Mar 2019 22:33:40 +0800</pubDate>
-      
-      <guid>https://home.xumijian.me/tags/software/</guid>
-      <description></description>
-    </item>
+    <title>Tags | Mijian Xu</title>
+    <link>home.xumijian.me/tags/</link>
+      <atom:link href="home.xumijian.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2020 14:24:33 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tags</title>
+      <link>home.xumijian.me/tags/</link>
+    </image>
     
   </channel>
 </rss>

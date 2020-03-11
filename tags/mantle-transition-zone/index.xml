@@ -1,23 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mantle Transition Zone on Mijian Xu</title>
-    <link>https://home.xumijian.me/tags/mantle-transition-zone/</link>
-    <description>Recent content in Mantle Transition Zone on Mijian Xu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 03 Mar 2019 21:49:32 +0800</lastBuildDate>
-    
-	<atom:link href="https://home.xumijian.me/tags/mantle-transition-zone/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Mantle Transition Zone | Mijian Xu</title>
+    <link>home.xumijian.me/tags/mantle-transition-zone/</link>
+      <atom:link href="home.xumijian.me/tags/mantle-transition-zone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mantle Transition Zone</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 03 Mar 2019 21:49:32 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mantle Transition Zone</title>
+      <link>home.xumijian.me/tags/mantle-transition-zone/</link>
+    </image>
     
     <item>
       <title>Mantle Transition Zone Structure in SE Tibet</title>
-      <link>https://home.xumijian.me/project/se-tibet-mtz/</link>
+      <link>home.xumijian.me/project/se-tibet-mtz/</link>
       <pubDate>Sun, 03 Mar 2019 21:49:32 +0800</pubDate>
-      
-      <guid>https://home.xumijian.me/project/se-tibet-mtz/</guid>
-      <description>The subduction of the Indian Plate beneath SE Tibet and its related volcanism in Tengchong are important geologic processes that accompany the evolution of the Tibetan Plateau. However, it is still not clear whether the subduction and volcanism are confined to the upper mantle or if they extend deep into the mantle transition zone (MTZ). Here, we imaged MTZ structures by using receiver function methods with the waveforms recorded by more than 300 temporary stations in SE Tibet.</description>
+      <guid>home.xumijian.me/project/se-tibet-mtz/</guid>
+      <description>&lt;p&gt;The subduction of the Indian Plate beneath SE Tibet and its related volcanism in Tengchong are important geologic processes that accompany the evolution of the Tibetan Plateau. However, it is still not clear whether the subduction and volcanism are confined to the upper mantle or if they extend deep into the mantle transition zone (MTZ). Here, we imaged MTZ structures by using receiver function methods with the waveforms recorded by more than 300 temporary stations in SE Tibet. The results show significant depressions of both the 410-km and 660-km discontinuities and a thickened MTZ (260–280 km) beneath SE Tibet. The depression of the 660-km discontinuity (by 10–30 km) and the thickened MTZ correlate well with high P-wave velocity anomalies in the MTZ, indicating the presence of a subducted Indian slab within the MTZ. Significant depression of the 410-km discontinuity (by 10–20 km) beneath the Tengchong volcano indicates that the volcano originates from the MTZ and is closely related to the subducted Indian slab. Our results confirm the deep subduction of the Indian plate and the deep origin of the Tengchong volcano. However, it remains unknown whether a slab gap exists and contributes to the Tengchong volcano.&lt;/p&gt;
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-topography-of-mtz-under-se-tibet&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;home.xumijian.me/home.xumijian.me/project/se-tibet-mtz/mtz_huda8dedbf548e4fb74e14a01b0894f55e_1931777_2000x2000_fit_lanczos_2.png&#34; data-caption=&#34;Topography of MTZ under SE Tibet.&#34;&gt;
+
+
+  &lt;img data-src=&#34;home.xumijian.me/home.xumijian.me/project/se-tibet-mtz/mtz_huda8dedbf548e4fb74e14a01b0894f55e_1931777_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;SE Tibet NTZ&#34; width=&#34;1421&#34; height=&#34;874&#34;&gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
+    Topography of MTZ under SE Tibet.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
     </item>
     
   </channel>

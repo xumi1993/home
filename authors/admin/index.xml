@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin on Mijian Xu</title>
-    <link>https://home.xumijian.me/authors/admin/</link>
-    <description>Recent content in admin on Mijian Xu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://home.xumijian.me/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://home.xumijian.me/author/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://home.xumijian.me/author/admin/</guid>
-      <description>I&amp;rsquo;m a PhD student at Nanjing University, School of Earth Sciences and Engineering My research interests include crustal and upper-mantle structures and Artificial Intelligence in the seismology. I have been working in Zhouchuan Huang&amp;rsquo;s group since 2013, which focus on:
- Earth structures of east Asia and the Tibet Plateau in Cenozoic P and S wave seismic anisotropy and tomography Subduction zones: structures, geodynamics and seismotectonics.  In this group, I contributed to the crustal and mantle transition zone structures in SE Tibet using Receiver Function method.</description>
-    </item>
+    <title>Mijian Xu</title>
+    <link>home.xumijian.me/authors/admin/</link>
+      <atom:link href="home.xumijian.me/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mijian Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mijian Xu</title>
+      <link>home.xumijian.me/authors/admin/</link>
+    </image>
     
   </channel>
 </rss>

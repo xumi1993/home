@@ -1,40 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Mijian Xu</title>
-    <link>https://home.xumijian.me/publication/</link>
-    <description>Recent content in Publications on Mijian Xu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jan 2018 00:00:00 -0800</lastBuildDate>
+    <title>Publications | Mijian Xu</title>
+    <link>home.xumijian.me/publication/</link>
+      <atom:link href="home.xumijian.me/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Mar 2020 14:24:33 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Publications</title>
+      <link>home.xumijian.me/publication/</link>
+    </image>
     
-	<atom:link href="https://home.xumijian.me/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Lateral variation of the mantle transition zone beneath the Tibetan Plateau: Insight into thermal processes during Indian–Asian collision</title>
+      <link>home.xumijian.me/publication/pepi2020/</link>
+      <pubDate>Fri, 06 Mar 2020 14:24:33 +0800</pubDate>
+      <guid>home.xumijian.me/publication/pepi2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Insight into the subducted Indian slab and origin of the Tengchong volcano in SE Tibet from receiver function analysis</title>
-      <link>https://home.xumijian.me/publication/epsl2018/</link>
-      <pubDate>Sat, 20 Jan 2018 00:00:00 -0800</pubDate>
-      
-      <guid>https://home.xumijian.me/publication/epsl2018/</guid>
+      <link>home.xumijian.me/publication/epsl2018/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0800</pubDate>
+      <guid>home.xumijian.me/publication/epsl2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SplitRFLab: A MATLAB GUI toolbox for receiver function analysis based on SplitLab</title>
-      <link>https://home.xumijian.me/publication/es2016/</link>
+      <link>home.xumijian.me/publication/es2016/</link>
       <pubDate>Wed, 03 Feb 2016 23:15:13 +0800</pubDate>
-      
-      <guid>https://home.xumijian.me/publication/es2016/</guid>
+      <guid>home.xumijian.me/publication/es2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mantle structure and dynamics beneath SE Tibet revealed by new seismic images</title>
-      <link>https://home.xumijian.me/publication/epsl2015/</link>
+      <link>home.xumijian.me/publication/epsl2015/</link>
       <pubDate>Thu, 01 Jan 2015 23:08:33 +0800</pubDate>
-      
-      <guid>https://home.xumijian.me/publication/epsl2015/</guid>
+      <guid>home.xumijian.me/publication/epsl2015/</guid>
       <description></description>
     </item>
     
