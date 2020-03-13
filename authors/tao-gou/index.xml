@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tao Gou | Mijian Xu</title>
+    <link>https://home.xumijian.me/authors/tao-gou/</link>
+      <atom:link href="https://home.xumijian.me/authors/tao-gou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tao Gou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Mar 2020 23:08:33 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tao Gou</title>
+      <link>https://home.xumijian.me/authors/tao-gou/</link>
+    </image>
+    
+    <item>
+      <title>Tectonic evolution of the eastern margin of the Tibetan plateau: Insight from crustal structures using P wave receiver functions</title>
+      <link>https://home.xumijian.me/publication/jaes2020/</link>
+      <pubDate>Fri, 13 Mar 2020 23:08:33 +0800</pubDate>
+      <guid>https://home.xumijian.me/publication/jaes2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
