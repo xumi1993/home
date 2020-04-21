@@ -5,12 +5,20 @@
     <link>https://home.xumijian.me/tags/</link>
       <atom:link href="https://home.xumijian.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Mar 2020 23:08:33 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Apr 2020 11:14:55 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>https://home.xumijian.me/tags/</link>
     </image>
+    
+    <item>
+      <title>Crustal deformation</title>
+      <link>https://home.xumijian.me/tags/crustal-deformation/</link>
+      <pubDate>Tue, 21 Apr 2020 11:14:55 +0800</pubDate>
+      <guid>https://home.xumijian.me/tags/crustal-deformation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Crustal structures</title>
@@ -33,14 +41,6 @@
       <link>https://home.xumijian.me/tags/software/</link>
       <pubDate>Sun, 03 Mar 2019 22:33:40 +0800</pubDate>
       <guid>https://home.xumijian.me/tags/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crustal Structure</title>
-      <link>https://home.xumijian.me/tags/crustal-structure/</link>
-      <pubDate>Sun, 03 Mar 2019 22:24:27 +0800</pubDate>
-      <guid>https://home.xumijian.me/tags/crustal-structure/</guid>
       <description></description>
     </item>
     

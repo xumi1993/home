@@ -5,12 +5,21 @@
     <link>https://home.xumijian.me/</link>
       <atom:link href="https://home.xumijian.me/index.xml" rel="self" type="application/rss+xml" />
     <description>Mijian Xu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Mar 2020 23:08:33 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Apr 2020 11:14:55 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Mijian Xu</title>
       <link>https://home.xumijian.me/</link>
     </image>
+    
+    <item>
+      <title>Crustal Structures in the SE Tibet</title>
+      <link>https://home.xumijian.me/project/se-tibet-crust/</link>
+      <pubDate>Sun, 03 Mar 2019 22:24:27 +0800</pubDate>
+      <guid>https://home.xumijian.me/project/se-tibet-crust/</guid>
+      <description>&lt;p&gt;The tectonic uplift of the Tibetan Plateau is a focus in the geosciences. Mid‐lower crustal flow is a popular model to interpret the geodynamic mechanism on the margin of the Tibetan Plateau. The model predicts different surface and Moho topographies across the plateau boundary due to the different strengths of the surrounding blocks, i.e., sharp boundaries on the eastern plateau boundary and gentle variations in the southeastern plateau boundary. Here, we employ receiver function and common conversion point stacking analysis with the seismic waveforms recorded by the dense ChinArray and other local seismic stations to accurately define the Moho topography in SE Tibet. We find that the Moho under the Tibetan Plateau is much deeper than that under the surrounding Yangtze Craton and Indochina block; abrupt Moho changes are found across the southeastern plateau margin, similar to that under the eastern plateau margin. We interpret these sharp Moho variations across the plateau margin to have developed when the Tibetan Plateau was extruded southeastward in the late Miocene. Subsequent gravity collapse resulted in crustal extension and gentle topographic variation, while the sharp Moho slope was preserved.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Mantle Transition Zone Structure in SE Tibet</title>
@@ -56,6 +65,14 @@
 &lt;/figure&gt;
 
 </description>
+    </item>
+    
+    <item>
+      <title>Sharp lateral Moho variations across the SE Tibetan margin and their implications for plateau growth</title>
+      <link>https://home.xumijian.me/publication/jgr2020/</link>
+      <pubDate>Tue, 21 Apr 2020 11:14:55 +0800</pubDate>
+      <guid>https://home.xumijian.me/publication/jgr2020/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -112,14 +129,6 @@
 &lt;/figure&gt;
 
 </description>
-    </item>
-    
-    <item>
-      <title>Crustal Structure in SE Tibet</title>
-      <link>https://home.xumijian.me/project/se-tibet-crust/</link>
-      <pubDate>Sun, 03 Mar 2019 22:24:27 +0800</pubDate>
-      <guid>https://home.xumijian.me/project/se-tibet-crust/</guid>
-      <description></description>
     </item>
     
     <item>

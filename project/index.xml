@@ -13,6 +13,15 @@
     </image>
     
     <item>
+      <title>Crustal Structures in the SE Tibet</title>
+      <link>https://home.xumijian.me/project/se-tibet-crust/</link>
+      <pubDate>Sun, 03 Mar 2019 22:24:27 +0800</pubDate>
+      <guid>https://home.xumijian.me/project/se-tibet-crust/</guid>
+      <description>&lt;p&gt;The tectonic uplift of the Tibetan Plateau is a focus in the geosciences. Mid‐lower crustal flow is a popular model to interpret the geodynamic mechanism on the margin of the Tibetan Plateau. The model predicts different surface and Moho topographies across the plateau boundary due to the different strengths of the surrounding blocks, i.e., sharp boundaries on the eastern plateau boundary and gentle variations in the southeastern plateau boundary. Here, we employ receiver function and common conversion point stacking analysis with the seismic waveforms recorded by the dense ChinArray and other local seismic stations to accurately define the Moho topography in SE Tibet. We find that the Moho under the Tibetan Plateau is much deeper than that under the surrounding Yangtze Craton and Indochina block; abrupt Moho changes are found across the southeastern plateau margin, similar to that under the eastern plateau margin. We interpret these sharp Moho variations across the plateau margin to have developed when the Tibetan Plateau was extruded southeastward in the late Miocene. Subsequent gravity collapse resulted in crustal extension and gentle topographic variation, while the sharp Moho slope was preserved.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mantle Transition Zone Structure in SE Tibet</title>
       <link>https://home.xumijian.me/project/se-tibet-mtz/</link>
       <pubDate>Sun, 03 Mar 2019 21:49:32 +0800</pubDate>
@@ -96,14 +105,6 @@
 &lt;/figure&gt;
 
 </description>
-    </item>
-    
-    <item>
-      <title>Crustal Structure in SE Tibet</title>
-      <link>https://home.xumijian.me/project/se-tibet-crust/</link>
-      <pubDate>Sun, 03 Mar 2019 22:24:27 +0800</pubDate>
-      <guid>https://home.xumijian.me/project/se-tibet-crust/</guid>
-      <description></description>
     </item>
     
   </channel>
