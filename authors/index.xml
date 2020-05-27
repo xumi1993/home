@@ -5,7 +5,7 @@
     <link>https://home.xumijian.me/authors/</link>
       <atom:link href="https://home.xumijian.me/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Apr 2020 11:14:55 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 14:24:33 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,23 +15,39 @@
     <item>
       <title>**Mijian Xu**</title>
       <link>https://home.xumijian.me/authors/mijian-xu/</link>
-      <pubDate>Tue, 21 Apr 2020 11:14:55 +0800</pubDate>
+      <pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate>
       <guid>https://home.xumijian.me/authors/mijian-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cunrui Han</title>
+      <link>https://home.xumijian.me/authors/cunrui-han/</link>
+      <pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate>
+      <guid>https://home.xumijian.me/authors/cunrui-han/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dayong Yu</title>
       <link>https://home.xumijian.me/authors/dayong-yu/</link>
-      <pubDate>Tue, 21 Apr 2020 11:14:55 +0800</pubDate>
+      <pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate>
       <guid>https://home.xumijian.me/authors/dayong-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haibo Wang</title>
+      <link>https://home.xumijian.me/authors/haibo-wang/</link>
+      <pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate>
+      <guid>https://home.xumijian.me/authors/haibo-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Liangshu Wang</title>
       <link>https://home.xumijian.me/authors/liangshu-wang/</link>
-      <pubDate>Tue, 21 Apr 2020 11:14:55 +0800</pubDate>
+      <pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate>
       <guid>https://home.xumijian.me/authors/liangshu-wang/</guid>
       <description></description>
     </item>
@@ -39,16 +55,56 @@
     <item>
       <title>Mingjie Xu</title>
       <link>https://home.xumijian.me/authors/mingjie-xu/</link>
-      <pubDate>Tue, 21 Apr 2020 11:14:55 +0800</pubDate>
+      <pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate>
       <guid>https://home.xumijian.me/authors/mingjie-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muyu Tian</title>
+      <link>https://home.xumijian.me/authors/muyu-tian/</link>
+      <pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate>
+      <guid>https://home.xumijian.me/authors/muyu-tian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ning Mi</title>
       <link>https://home.xumijian.me/authors/ning-mi/</link>
-      <pubDate>Tue, 21 Apr 2020 11:14:55 +0800</pubDate>
+      <pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate>
       <guid>https://home.xumijian.me/authors/ning-mi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shijie Hao</title>
+      <link>https://home.xumijian.me/authors/shijie-hao/</link>
+      <pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate>
+      <guid>https://home.xumijian.me/authors/shijie-hao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tao Gou</title>
+      <link>https://home.xumijian.me/authors/tao-gou/</link>
+      <pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate>
+      <guid>https://home.xumijian.me/authors/tao-gou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yajing Bi</title>
+      <link>https://home.xumijian.me/authors/yajing-bi/</link>
+      <pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate>
+      <guid>https://home.xumijian.me/authors/yajing-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhouchuan Huang</title>
+      <link>https://home.xumijian.me/authors/zhouchuan-huang/</link>
+      <pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate>
+      <guid>https://home.xumijian.me/authors/zhouchuan-huang/</guid>
       <description></description>
     </item>
     
@@ -69,58 +125,10 @@
     </item>
     
     <item>
-      <title>Zhouchuan Huang</title>
-      <link>https://home.xumijian.me/authors/zhouchuan-huang/</link>
-      <pubDate>Tue, 21 Apr 2020 11:14:55 +0800</pubDate>
-      <guid>https://home.xumijian.me/authors/zhouchuan-huang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cunri Han</title>
       <link>https://home.xumijian.me/authors/cunri-han/</link>
       <pubDate>Fri, 13 Mar 2020 23:08:33 +0800</pubDate>
       <guid>https://home.xumijian.me/authors/cunri-han/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Haibo Wang</title>
-      <link>https://home.xumijian.me/authors/haibo-wang/</link>
-      <pubDate>Fri, 13 Mar 2020 23:08:33 +0800</pubDate>
-      <guid>https://home.xumijian.me/authors/haibo-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Muyu Tian</title>
-      <link>https://home.xumijian.me/authors/muyu-tian/</link>
-      <pubDate>Fri, 13 Mar 2020 23:08:33 +0800</pubDate>
-      <guid>https://home.xumijian.me/authors/muyu-tian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shijie Hao</title>
-      <link>https://home.xumijian.me/authors/shijie-hao/</link>
-      <pubDate>Fri, 13 Mar 2020 23:08:33 +0800</pubDate>
-      <guid>https://home.xumijian.me/authors/shijie-hao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tao Gou</title>
-      <link>https://home.xumijian.me/authors/tao-gou/</link>
-      <pubDate>Fri, 13 Mar 2020 23:08:33 +0800</pubDate>
-      <guid>https://home.xumijian.me/authors/tao-gou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yajing Bi</title>
-      <link>https://home.xumijian.me/authors/yajing-bi/</link>
-      <pubDate>Fri, 13 Mar 2020 23:08:33 +0800</pubDate>
-      <guid>https://home.xumijian.me/authors/yajing-bi/</guid>
       <description></description>
     </item>
     

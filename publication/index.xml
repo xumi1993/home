@@ -5,12 +5,20 @@
     <link>https://home.xumijian.me/publication/</link>
       <atom:link href="https://home.xumijian.me/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Apr 2020 11:14:55 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 14:24:33 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://home.xumijian.me/publication/</link>
     </image>
+    
+    <item>
+      <title>Layered crustal anisotropy and deformation in the SE Tibetan plateau revealed by Markov-Chain-Monte-Carlo inversion of receiver functions</title>
+      <link>https://home.xumijian.me/publication/pepi2020b/</link>
+      <pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate>
+      <guid>https://home.xumijian.me/publication/pepi2020b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sharp lateral Moho variations across the SE Tibetan margin and their implications for plateau growth</title>
@@ -30,9 +38,9 @@
     
     <item>
       <title>Lateral variation of the mantle transition zone beneath the Tibetan Plateau: Insight into thermal processes during Indian–Asian collision</title>
-      <link>https://home.xumijian.me/publication/pepi2020/</link>
+      <link>https://home.xumijian.me/publication/pepi2020a/</link>
       <pubDate>Fri, 06 Mar 2020 14:24:33 +0800</pubDate>
-      <guid>https://home.xumijian.me/publication/pepi2020/</guid>
+      <guid>https://home.xumijian.me/publication/pepi2020a/</guid>
       <description></description>
     </item>
     
