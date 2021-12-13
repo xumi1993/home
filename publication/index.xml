@@ -1,88 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Publications | Mijian Xu</title>
-    <link>home.xumijian.me/publication/</link>
-      <atom:link href="home.xumijian.me/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Mijian Xu</copyright><lastBuildDate>Wed, 27 May 2020 14:24:33 +0800</lastBuildDate>
-    <image>
-      <url>/home.xumijian.me/media/icon_hub2b2f91bac16cc9a5275f87cc6d0a961_12088_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>home.xumijian.me/publication/</link>
-    </image>
-    
-    <item>
-      <title>Layered crustal anisotropy and deformation in the SE Tibetan plateau revealed by Markov-Chain-Monte-Carlo inversion of receiver functions</title>
-      <link>home.xumijian.me/publication/pepi2020b/</link>
-      <pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate>
-      <guid>home.xumijian.me/publication/pepi2020b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sharp lateral Moho variations across the SE Tibetan margin and their implications for plateau growth</title>
-      <link>home.xumijian.me/publication/jgr2020/</link>
-      <pubDate>Tue, 21 Apr 2020 11:14:55 +0800</pubDate>
-      <guid>home.xumijian.me/publication/jgr2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tectonic evolution of the eastern margin of the Tibetan plateau: Insight from crustal structures using P wave receiver functions</title>
-      <link>home.xumijian.me/publication/jaes2020/</link>
-      <pubDate>Fri, 13 Mar 2020 23:08:33 +0800</pubDate>
-      <guid>home.xumijian.me/publication/jaes2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lateral variation of the mantle transition zone beneath the Tibetan Plateau: Insight into thermal processes during Indian–Asian collision</title>
-      <link>home.xumijian.me/publication/pepi2020a/</link>
-      <pubDate>Fri, 06 Mar 2020 14:24:33 +0800</pubDate>
-      <guid>home.xumijian.me/publication/pepi2020a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Insight into the subducted Indian slab and origin of the Tengchong volcano in SE Tibet from receiver function analysis</title>
-      <link>home.xumijian.me/publication/epsl2018/</link>
-      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>home.xumijian.me/publication/epsl2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SplitRFLab: A MATLAB GUI toolbox for receiver function analysis based on SplitLab</title>
-      <link>home.xumijian.me/publication/es2016/</link>
-      <pubDate>Wed, 03 Feb 2016 23:15:13 +0800</pubDate>
-      <guid>home.xumijian.me/publication/es2016/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mantle structure and dynamics beneath SE Tibet revealed by new seismic images</title>
-      <link>home.xumijian.me/publication/epsl2015/</link>
-      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
-      <guid>home.xumijian.me/publication/epsl2015/</guid>
-      <description>&lt;!-- 
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | Mijian Xu</title><link>https://home.xumijian.me/publication/</link><atom:link href="https://home.xumijian.me/publication/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Mijian Xu</copyright><lastBuildDate>Wed, 27 May 2020 14:24:33 +0800</lastBuildDate><image><url>https://home.xumijian.me/media/icon_hub2b2f91bac16cc9a5275f87cc6d0a961_12088_512x512_fill_lanczos_center_3.png</url><title>Publications</title><link>https://home.xumijian.me/publication/</link></image><item><title>Layered crustal anisotropy and deformation in the SE Tibetan plateau revealed by Markov-Chain-Monte-Carlo inversion of receiver functions</title><link>https://home.xumijian.me/publication/pepi2020b/</link><pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate><guid>https://home.xumijian.me/publication/pepi2020b/</guid><description/></item><item><title>Sharp lateral Moho variations across the SE Tibetan margin and their implications for plateau growth</title><link>https://home.xumijian.me/publication/jgr2020/</link><pubDate>Tue, 21 Apr 2020 11:14:55 +0800</pubDate><guid>https://home.xumijian.me/publication/jgr2020/</guid><description/></item><item><title>Tectonic evolution of the eastern margin of the Tibetan plateau: Insight from crustal structures using P wave receiver functions</title><link>https://home.xumijian.me/publication/jaes2020/</link><pubDate>Fri, 13 Mar 2020 23:08:33 +0800</pubDate><guid>https://home.xumijian.me/publication/jaes2020/</guid><description/></item><item><title>Lateral variation of the mantle transition zone beneath the Tibetan Plateau: Insight into thermal processes during Indian–Asian collision</title><link>https://home.xumijian.me/publication/pepi2020a/</link><pubDate>Fri, 06 Mar 2020 14:24:33 +0800</pubDate><guid>https://home.xumijian.me/publication/pepi2020a/</guid><description/></item><item><title>Insight into the subducted Indian slab and origin of the Tengchong volcano in SE Tibet from receiver function analysis</title><link>https://home.xumijian.me/publication/epsl2018/</link><pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate><guid>https://home.xumijian.me/publication/epsl2018/</guid><description/></item><item><title>SplitRFLab: A MATLAB GUI toolbox for receiver function analysis based on SplitLab</title><link>https://home.xumijian.me/publication/es2016/</link><pubDate>Wed, 03 Feb 2016 23:15:13 +0800</pubDate><guid>https://home.xumijian.me/publication/es2016/</guid><description/></item><item><title>Mantle structure and dynamics beneath SE Tibet revealed by new seismic images</title><link>https://home.xumijian.me/publication/epsl2015/</link><pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate><guid>https://home.xumijian.me/publication/epsl2015/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item></channel></rss>
