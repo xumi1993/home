@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crustal Structure | Mijian Xu</title>
+    <link>home.xumijian.me/tag/crustal-structure/</link>
+      <atom:link href="home.xumijian.me/tag/crustal-structure/index.xml" rel="self" type="application/rss+xml" />
+    <description>Crustal Structure</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Mijian Xu</copyright><lastBuildDate>Sun, 03 Mar 2019 22:24:27 +0800</lastBuildDate>
+    <image>
+      <url>/home.xumijian.me/media/icon_hub2b2f91bac16cc9a5275f87cc6d0a961_12088_512x512_fill_lanczos_center_3.png</url>
+      <title>Crustal Structure</title>
+      <link>home.xumijian.me/tag/crustal-structure/</link>
+    </image>
+    
+    <item>
+      <title>Crustal Structures in the SE Tibet</title>
+      <link>home.xumijian.me/project/se-tibet-crust/</link>
+      <pubDate>Sun, 03 Mar 2019 22:24:27 +0800</pubDate>
+      <guid>home.xumijian.me/project/se-tibet-crust/</guid>
+      <description>&lt;p&gt;The tectonic uplift of the Tibetan Plateau is a focus in the geosciences. Mid‐lower crustal flow is a popular model to interpret the geodynamic mechanism on the margin of the Tibetan Plateau. The model predicts different surface and Moho topographies across the plateau boundary due to the different strengths of the surrounding blocks, i.e., sharp boundaries on the eastern plateau boundary and gentle variations in the southeastern plateau boundary. Here, we employ receiver function and common conversion point stacking analysis with the seismic waveforms recorded by the dense ChinArray and other local seismic stations to accurately define the Moho topography in SE Tibet. We find that the Moho under the Tibetan Plateau is much deeper than that under the surrounding Yangtze Craton and Indochina block; abrupt Moho changes are found across the southeastern plateau margin, similar to that under the eastern plateau margin. We interpret these sharp Moho variations across the plateau margin to have developed when the Tibetan Plateau was extruded southeastward in the late Miocene. Subsequent gravity collapse resulted in crustal extension and gentle topographic variation, while the sharp Moho slope was preserved.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

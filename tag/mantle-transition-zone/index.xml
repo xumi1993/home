@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mantle Transition Zone | Mijian Xu</title>
+    <link>home.xumijian.me/tag/mantle-transition-zone/</link>
+      <atom:link href="home.xumijian.me/tag/mantle-transition-zone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mantle Transition Zone</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Mijian Xu</copyright><lastBuildDate>Fri, 06 Mar 2020 14:24:33 +0800</lastBuildDate>
+    <image>
+      <url>/home.xumijian.me/media/icon_hub2b2f91bac16cc9a5275f87cc6d0a961_12088_512x512_fill_lanczos_center_3.png</url>
+      <title>Mantle Transition Zone</title>
+      <link>home.xumijian.me/tag/mantle-transition-zone/</link>
+    </image>
+    
+    <item>
+      <title>Mantle Transition Zone Structure in SE Tibet</title>
+      <link>home.xumijian.me/project/se-tibet-mtz/</link>
+      <pubDate>Sun, 03 Mar 2019 21:49:32 +0800</pubDate>
+      <guid>home.xumijian.me/project/se-tibet-mtz/</guid>
+      <description>&lt;p&gt;The subduction of the Indian Plate beneath SE Tibet and its related volcanism in Tengchong are important geologic processes that accompany the evolution of the Tibetan Plateau. However, it is still not clear whether the subduction and volcanism are confined to the upper mantle or if they extend deep into the mantle transition zone (MTZ). Here, we imaged MTZ structures by using receiver function methods with the waveforms recorded by more than 300 temporary stations in SE Tibet. The results show significant depressions of both the 410-km and 660-km discontinuities and a thickened MTZ (260–280 km) beneath SE Tibet. The depression of the 660-km discontinuity (by 10–30 km) and the thickened MTZ correlate well with high P-wave velocity anomalies in the MTZ, indicating the presence of a subducted Indian slab within the MTZ. Significant depression of the 410-km discontinuity (by 10–20 km) beneath the Tengchong volcano indicates that the volcano originates from the MTZ and is closely related to the subducted Indian slab. Our results confirm the deep subduction of the Indian plate and the deep origin of the Tengchong volcano. However, it remains unknown whether a slab gap exists and contributes to the Tengchong volcano.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-comparison-of-the-stacked-p-wave-receiver-functions-and-the-p-wave-velocity-anomalies-huang-et-al-2015aalong-the-three-profiles-shown-in-the-bottom-right-figure-blue-and-red-colors-in-background-denote-high-and-low-velocities-respectively-black-and-gray-lines-denote-the-average-p-wave-receiver-functions-and-their-95-confidence-level-respectively-obtained-from-2000-bootstrapping-iterations-see-the-text-for-details-red-and-blue-colors-denote-the-significant-positive-and-negative-pulses-respectively-two-dashed-horizontal-lines-denote-the-410-km-and-660-km-depths-for-reference-the-red-triangle-denotes-the-tengchong-volcano&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SE Tibet NTZ&#34; srcset=&#34;
+               /home.xumijian.me/project/se-tibet-mtz/mtz_huda8dedbf548e4fb74e14a01b0894f55e_1931777_024d72963bac0a46382fd3c92fb8da3e.png 400w,
+               /home.xumijian.me/project/se-tibet-mtz/mtz_huda8dedbf548e4fb74e14a01b0894f55e_1931777_8c85b75df2399bff4791121f8ec3c93d.png 760w,
+               /home.xumijian.me/project/se-tibet-mtz/mtz_huda8dedbf548e4fb74e14a01b0894f55e_1931777_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;home.xumijian.me/home.xumijian.me/project/se-tibet-mtz/mtz_huda8dedbf548e4fb74e14a01b0894f55e_1931777_024d72963bac0a46382fd3c92fb8da3e.png&#34;
+               width=&#34;760&#34;
+               height=&#34;467&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption data-pre=&#34;Figure&amp;nbsp;&#34; data-post=&#34;:&amp;nbsp;&#34; class=&#34;numbered&#34;&gt;
+      Comparison of the stacked P-wave receiver functions and the P-wave velocity anomalies (Huang et al., 2015a)along the three profiles shown in the bottom-right figure. Blue and red colors in background denote high and low velocities, respectively. Black and gray lines denote the average P-wave receiver functions and their 95% confidence level, respectively, obtained from 2,000 bootstrapping iterations (see the text for details). Red and blue colors denote the significant positive and negative pulses, respectively. Two dashed horizontal lines denote the 410 km and 660 km depths for reference. The red triangle denotes the Tengchong volcano.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lateral variation of the mantle transition zone beneath the Tibetan Plateau: Insight into thermal processes during Indian–Asian collision</title>
+      <link>home.xumijian.me/publication/pepi2020a/</link>
+      <pubDate>Fri, 06 Mar 2020 14:24:33 +0800</pubDate>
+      <guid>home.xumijian.me/publication/pepi2020a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,55 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Mijian Xu</title>
-    <link>https://home.xumijian.me/tags/</link>
-      <atom:link href="https://home.xumijian.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>home.xumijian.me/tags/</link>
+      <atom:link href="home.xumijian.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2020 14:24:33 +0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Mijian Xu</copyright><lastBuildDate>Wed, 27 May 2020 14:24:33 +0800</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>/home.xumijian.me/media/icon_hub2b2f91bac16cc9a5275f87cc6d0a961_12088_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>https://home.xumijian.me/tags/</link>
+      <link>home.xumijian.me/tags/</link>
     </image>
-    
-    <item>
-      <title>Crustal anisotropy</title>
-      <link>https://home.xumijian.me/tags/crustal-anisotropy/</link>
-      <pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate>
-      <guid>https://home.xumijian.me/tags/crustal-anisotropy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crustal structures</title>
-      <link>https://home.xumijian.me/tags/crustal-structures/</link>
-      <pubDate>Wed, 27 May 2020 14:24:33 +0800</pubDate>
-      <guid>https://home.xumijian.me/tags/crustal-structures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crustal deformation</title>
-      <link>https://home.xumijian.me/tags/crustal-deformation/</link>
-      <pubDate>Tue, 21 Apr 2020 11:14:55 +0800</pubDate>
-      <guid>https://home.xumijian.me/tags/crustal-deformation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mantle Transition Zone</title>
-      <link>https://home.xumijian.me/tags/mantle-transition-zone/</link>
-      <pubDate>Fri, 06 Mar 2020 14:24:33 +0800</pubDate>
-      <guid>https://home.xumijian.me/tags/mantle-transition-zone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://home.xumijian.me/tags/software/</link>
-      <pubDate>Sun, 03 Mar 2019 22:33:40 +0800</pubDate>
-      <guid>https://home.xumijian.me/tags/software/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
