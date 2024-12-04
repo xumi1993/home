@@ -1,1 +1,92 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Full-Waveform Inversion | Hugo Academic CV Theme</title><link>https://home.xumijian.me/tags/full-waveform-inversion/</link><atom:link href="https://home.xumijian.me/tags/full-waveform-inversion/index.xml" rel="self" type="application/rss+xml"/><description>Full-Waveform Inversion</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://home.xumijian.me/media/icon_hu6755105441502187091.png</url><title>Full-Waveform Inversion</title><link>https://home.xumijian.me/tags/full-waveform-inversion/</link></image><item><title>Multilevel Mechanisms Driving Intraplate Volcanism in Central Mongolia Revealed by Adjoint Waveform Tomography of Receiver Function and Ambient Noise Data</title><link>https://home.xumijian.me/publication/epsl2024/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://home.xumijian.me/publication/epsl2024/</guid><description/></item><item><title>Full-waveform Joint Inversion of Teleseismic Cross-convolution, Receiver Function, and Ambient Noise Data for High-resolution Lithospheric Seismic Imaging</title><link>https://home.xumijian.me/event/agu2024/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate><guid>https://home.xumijian.me/event/agu2024/</guid><description/></item><item><title>3D Adjoint Tomography of Teleseismic Receiver Functions: Methodology and Applications</title><link>https://home.xumijian.me/event/kit2024/</link><pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate><guid>https://home.xumijian.me/event/kit2024/</guid><description/></item><item><title>Receiver Function Adjoint Tomography for Three-Dimensional High-Resolution Seismic Array Imaging: Methodology and Applications in Southeastern Tibet</title><link>https://home.xumijian.me/publication/grl2023/</link><pubDate>Sat, 30 Sep 2023 11:14:55 +0800</pubDate><guid>https://home.xumijian.me/publication/grl2023/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Full-Waveform Inversion | Hugo Academic CV Theme</title><link>https://home.xumijian.me/tags/full-waveform-inversion/</link><atom:link href="https://home.xumijian.me/tags/full-waveform-inversion/index.xml" rel="self" type="application/rss+xml"/><description>Full-Waveform Inversion</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><image><url>https://home.xumijian.me/media/icon_hu6755105441502187091.png</url><title>Full-Waveform Inversion</title><link>https://home.xumijian.me/tags/full-waveform-inversion/</link></image><item><title>Multilevel Mechanisms Driving Intraplate Volcanism in Central Mongolia Revealed by Adjoint Waveform Tomography of Receiver Function and Ambient Noise Data</title><link>https://home.xumijian.me/publication/epsl2024/</link><pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate><guid>https://home.xumijian.me/publication/epsl2024/</guid><description/></item><item><title>Full-waveform Joint Inversion of Teleseismic Cross-convolution, Receiver Function, and Ambient Noise Data for High-resolution Lithospheric Seismic Imaging</title><link>https://home.xumijian.me/event/agu2024/</link><pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate><guid>https://home.xumijian.me/event/agu2024/</guid><description>&lt;h2 id="citation">Citation&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>Xu, M., Wang, K., Chen, J., He, J., Liu, Q., Liu, Y., Huang, Z., and Tong, P. (2025). Multilevel mechanisms driving intraplate volcanism in central mongolia
+revealed by adjoint waveform tomography of receiver function and ambient noise data. Earth and Planetary Science Letters, 650:119137, &lt;a href="https://doi.org/10.1016/j.epsl.2024.119137" target="_blank" rel="noopener">https://doi.org/10.1016/j.epsl.2024.119137&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Xu, M., Wang, K., Chen, J., Yu, D., and Tong, P. (2023). Receiver function adjoint tomography for three-dimensional high-resolution seismic array imaging:
+Methodology and applications in southeastern tibet. Geophysical Research Letters, 50(19):e2023GL104077, &lt;a href="https://doi.org/10.1029/2023GL104077" target="_blank" rel="noopener">https://doi.org/10.1029/2023GL104077&lt;/a>.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="receiver-function-fwi-and-application-to-se-tibet">Receiver function FWI and Application to SE Tibet&lt;/h2>
+&lt;p>In this case, we selected teleseismic receiver functions recorded by a linear seismic array in southeastern Tibet. We used the adjoint method to invert for 3-D Vp, Vs, and density structures. The checkerboard test demonstrates the capability of the receiver function FWI to recover the 3-D structure of the lithosphere.&lt;/p>
+&lt;p>
+&lt;figure id="figure-a-tectonics-in-the-se-asia-gray-lines-denote-major-tectonic-boundaries-the-red-box-shows-the-study-region-b-topographic-map-of-the-ailaoshan-red-river-shear-zone-and-adjacent-regions-the-24-red-triangles-denote-seismic-stations-deployed-by-nanjing-university-nju-the-14-blue-triangles-denote-stations-deployed-by-the-chinarray-project-the-two-brown-triangles-are-stations-from-china-national-seismic-network-blue-lines-represent-boundary-faults-the-black-box-shows-the-boundaries-of-the-model-the-abbreviations-are-alsf-ailaoshan-fault-arsz-ailaoshan-red-river-shear-zone-rrf-red-river-fault-c-earthquakes-with-agglomerative-clustering-the-earthquakes-are-grouped-into-31-clusters-indicated-by-different-colors-d-locations-of-virtual-events-colors-denote-weights-of-events">
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="(a) Tectonics in the SE Asia. Gray lines denote major tectonic boundaries. The red box shows the study region. (b) Topographic map of the Ailaoshan-Red River shear zone and adjacent regions. The 24 red triangles denote seismic stations deployed by Nanjing University (NJU). The 14 blue triangles denote stations deployed by the ChinArray project. The two brown triangles are stations from China National Seismic Network. Blue lines represent boundary faults. The black box shows the boundaries of the model. The abbreviations are ALSF: Ailaoshan Fault; ARSZ: Ailaoshan Red River shear zone; RRF: Red River Fault. (c) Earthquakes with agglomerative clustering. The earthquakes are grouped into 31 clusters indicated by different colors. (d) Locations of virtual events. Colors denote weights of events." srcset="
+/event/agu2024/Fig1_hu13984033587402285661.webp 400w,
+/event/agu2024/Fig1_hu378854354858369633.webp 760w,
+/event/agu2024/Fig1_hu8906698939379351661.webp 1200w"
+src="https://home.xumijian.me/event/agu2024/Fig1_hu13984033587402285661.webp"
+width="760"
+height="485"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+(a) Tectonics in the SE Asia. Gray lines denote major tectonic boundaries. The red box shows the study region. (b) Topographic map of the Ailaoshan-Red River shear zone and adjacent regions. The 24 red triangles denote seismic stations deployed by Nanjing University (NJU). The 14 blue triangles denote stations deployed by the ChinArray project. The two brown triangles are stations from China National Seismic Network. Blue lines represent boundary faults. The black box shows the boundaries of the model. The abbreviations are ALSF: Ailaoshan Fault; ARSZ: Ailaoshan Red River shear zone; RRF: Red River Fault. (c) Earthquakes with agglomerative clustering. The earthquakes are grouped into 31 clusters indicated by different colors. (d) Locations of virtual events. Colors denote weights of events.
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure id="figure-the-3-d-checkerboard-test-for-the-receiver-function-adjoint-tomography-the-perturbations-in-vp-vs-and-density-of-the-target-model-relative-to-the-initial-model-are-shown-in-horizontal-slices-a-at-depths-of-10-30-50-and-70km-and-in-the-vertical-section-e-along-the-aa-profile-green-line-in-panel-a-panels-bd-show-the-recovered-perturbations-of-vp-vs-and-density-respectively-panels-fh-show-the-inverted-perturbations-of-vp-vs-and-density-in-the-vertical-section-respectively">
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="The 3-D checkerboard test for the receiver function adjoint tomography. The perturbations in Vp, Vs and density of the target model relative to the initial model are shown in horizontal slices (a) at depths of 10, 30, 50, and 70 km, and in the vertical section (e) along the AA&amp;#39; profile (green line in panel (a)). Panels (b)(d) show the recovered perturbations of Vp, Vs and density, respectively. Panels (f)–(h) show the inverted perturbations of Vp, Vs, and density in the vertical section, respectively." srcset="
+/event/agu2024/Fig3_hu882697205130361765.webp 400w,
+/event/agu2024/Fig3_hu13881360964759736647.webp 760w,
+/event/agu2024/Fig3_hu10376535268989196187.webp 1200w"
+src="https://home.xumijian.me/event/agu2024/Fig3_hu882697205130361765.webp"
+width="760"
+height="396"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+The 3-D checkerboard test for the receiver function adjoint tomography. The perturbations in Vp, Vs and density of the target model relative to the initial model are shown in horizontal slices (a) at depths of 10, 30, 50, and 70 km, and in the vertical section (e) along the AA&amp;rsquo; profile (green line in panel (a)). Panels (b)(d) show the recovered perturbations of Vp, Vs and density, respectively. Panels (f)–(h) show the inverted perturbations of Vp, Vs, and density in the vertical section, respectively.
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>
+&lt;figure id="figure-a-map-views-of-the-vs-model-at-depths-of-14-28-45-and-65km-b-cross-section-of-the-vs-anomalies-relative-to-m00-along-profile-aa-red-line-in-panel-a-panels-c-and-d-demonstrate-cross-sections-of-the-vs-model-along-aa-revealed-by-the-receiver-function-adjoint-tomography-rfat-and-the-1-d-joint-inversion-of-p-wave-receiver-functions-prfs-and-surface-wave-dispersions-respectively-the-respective-green-and-magenta-arrows-in-panels-b-and-c-denote-the-extending-direction-of-the-low-velocity-zone-the-dashed-lines-in-panels-b-and-c-denote-the-moho-e-the-observed-prfs-black-curves-the-synthetic-prfs-computed-in-the-model-generated-by-rfat-red-curves-and-the-synthetic-prfs-computed-in-the-final-model-generated-by-the-1-d-joint-inversion-blue-dashed-curves-at-station-x153188-the-pink-area-indicates-the-time-window-for-measuring-misfits-around-the-ps-phase-between-the-observed-and-synthetic-prfs-f-the-corresponding-back-azimuth-of-each-event-g-the-measured-misfit-for-each-event">
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="(a) Map views of the Vs model at depths of 14, 28, 45, and 65 km. (b) Cross-section of the Vs anomalies relative to M00 along profile AA&amp;#39; (red line in panel (a)). Panels (c) and (d) demonstrate cross sections of the Vs model along AA&amp;#39; revealed by the receiver function adjoint tomography (RFAT) and the 1-D joint inversion of P-wave receiver functions (PRFs) and surface wave dispersions, respectively. The respective green and magenta arrows in panels (b) and (c) denote the extending direction of the low-velocity zone. The dashed lines in panels (b) and (c) denote the Moho. (e) The observed PRFs (black curves), the synthetic PRFs computed in the model generated by RFAT (red curves), and the synthetic PRFs computed in the final model generated by the 1-D joint inversion (blue dashed curves) at station X1.53188. The pink area indicates the time window for measuring misfits around the Ps phase between the observed and synthetic PRFs. (f) The corresponding back-azimuth of each event. (g) The measured misfit for each event." srcset="
+/event/agu2024/Fig4_R1_hu10621205336821685013.webp 400w,
+/event/agu2024/Fig4_R1_hu12496799988037538685.webp 760w,
+/event/agu2024/Fig4_R1_hu10128752767260546819.webp 1200w"
+src="https://home.xumijian.me/event/agu2024/Fig4_R1_hu10621205336821685013.webp"
+width="732"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+(a) Map views of the Vs model at depths of 14, 28, 45, and 65 km. (b) Cross-section of the Vs anomalies relative to M00 along profile AA&amp;rsquo; (red line in panel (a)). Panels (c) and (d) demonstrate cross sections of the Vs model along AA&amp;rsquo; revealed by the receiver function adjoint tomography (RFAT) and the 1-D joint inversion of P-wave receiver functions (PRFs) and surface wave dispersions, respectively. The respective green and magenta arrows in panels (b) and (c) denote the extending direction of the low-velocity zone. The dashed lines in panels (b) and (c) denote the Moho. (e) The observed PRFs (black curves), the synthetic PRFs computed in the model generated by RFAT (red curves), and the synthetic PRFs computed in the final model generated by the 1-D joint inversion (blue dashed curves) at station X1.53188. The pink area indicates the time window for measuring misfits around the Ps phase between the observed and synthetic PRFs. (f) The corresponding back-azimuth of each event. (g) The measured misfit for each event.
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;h2 id="joint-fwi-of-receiver-function-and-ambient-noise">Joint FWI of Receiver Function and Ambient Noise&lt;/h2>
+&lt;p>We further combined the receiver function and ambient noise data to invert for the lithospheric S-wave velocity structure. The joint inversion technique enhances the resolution of the lithospheric structure. We conducted a retrieval test to evaluate the resolution of the RF-FWI, ANAT, and joint FWI. The results show that the joint FWI effectively combines sensitivity of the RF-FWI and ANAT.&lt;/p>
+&lt;p>
+&lt;figure id="figure-retrieval-tests-perturbations-of-r00-relative-to-the-final-model-m10-ad-the-model-r_egf-derived-from-ambient-noise-adjoint-tomography-eh-anat-the-model-r_prf-obtained-via-receiver-function-adjoint-tomography-il-rfat-and-the-model-r_joint-derived-from-joint-adjoint-waveform-tomography-inverting-receiver-functions-and-ambient-noise-data-mp-jointat">
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="Retrieval tests. Perturbations of R00 relative to the final model M10 (a–d), the model $R_{EGF}$ derived from ambient noise adjoint tomography (e–h) (ANAT), the model $R_{PRF}$ obtained via receiver function adjoint tomography (i–l) (RFAT), and the model $R_{Joint}$ derived from joint adjoint waveform tomography inverting receiver functions and ambient noise data (m–p) (JointAT)." srcset="
+/event/agu2024/Fig6_hu9809696558315594644.webp 400w,
+/event/agu2024/Fig6_hu3923611168691086058.webp 760w,
+/event/agu2024/Fig6_hu857365610859127572.webp 1200w"
+src="https://home.xumijian.me/event/agu2024/Fig6_hu9809696558315594644.webp"
+width="760"
+height="495"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Retrieval tests. Perturbations of R00 relative to the final model M10 (a–d), the model $R_{EGF}$ derived from ambient noise adjoint tomography (e–h) (ANAT), the model $R_{PRF}$ obtained via receiver function adjoint tomography (i–l) (RFAT), and the model $R_{Joint}$ derived from joint adjoint waveform tomography inverting receiver functions and ambient noise data (m–p) (JointAT).
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;h2 id="joint-fwi-of-teleseismic-cross-convolution-and-ambient-noise">Joint FWI of Teleseismic Cross-convolution, and Ambient Noise&lt;/h2>
+&lt;p>We further propose a novel objective function for teleseismic FWI based on single and double-difference of cross-convolution. This approach eliminates the need for estimating the source time function during inversion, thus reducing the associated uncertainties. We combine teleseismic cross-convolution, and ambient noise data to invert for lithospheric S-wave velocity structure. We apply the joint inversion technique to investigate Yakutat subduction processes in the southern Alaska, yielding high-resolution lithospheric velocity structures.&lt;/p>
+&lt;p>
+&lt;figure id="figure-checkerboard-resolution-test-in-the-southern-alaska">
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="Checkerboard resolution test in the southern Alaska. " srcset="
+/event/agu2024/ckb_hu17279304754103021255.webp 400w,
+/event/agu2024/ckb_hu17158562431813584223.webp 760w,
+/event/agu2024/ckb_hu17339205992895635846.webp 1200w"
+src="https://home.xumijian.me/event/agu2024/ckb_hu17279304754103021255.webp"
+width="656"
+height="760"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Checkerboard resolution test in the southern Alaska.
+&lt;/figcaption>&lt;/figure>
+&lt;/p></description></item><item><title>3D Adjoint Tomography of Teleseismic Receiver Functions: Methodology and Applications</title><link>https://home.xumijian.me/event/kit2024/</link><pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate><guid>https://home.xumijian.me/event/kit2024/</guid><description/></item><item><title>Receiver Function Adjoint Tomography for Three-Dimensional High-Resolution Seismic Array Imaging: Methodology and Applications in Southeastern Tibet</title><link>https://home.xumijian.me/publication/grl2023/</link><pubDate>Sat, 30 Sep 2023 11:14:55 +0800</pubDate><guid>https://home.xumijian.me/publication/grl2023/</guid><description/></item></channel></rss>
