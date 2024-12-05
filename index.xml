@@ -31,7 +31,46 @@ class="hb-card group"href="https://doi.org/10.1029/2023GL104077" target="_blank"
 &lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="receiver-function-fwi-and-application-to-se-tibet">Receiver function FWI and Application to SE Tibet&lt;/h2>
+&lt;h2 id="receiver-function-fwi-rf-fwi">Receiver function FWI (RF-FWI)&lt;/h2>
+&lt;h3 id="synthetic-test-thickened-crustal-model-and-comparison-with-conventional-1d-rf-inversion">Synthetic Test: thickened crustal model and comparison with conventional 1D RF inversion&lt;/h3>
+&lt;p>We first conducted a synthetic test to evaluate the capability of the RF-FWI to recover the 3-D structure with a thickened crust. The results show that the shape of the velocity anomaly is well recovered, particularly for S-wave velicity. We further compared the RF-FWI with the conventional 1-D receiver function inversion. The results demonstrate that the RF-FWI can provide more accurate result.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/event/agu2024/thick_hu501982218536669005.webp 400w,
+/event/agu2024/thick_hu9405637732674892333.webp 760w,
+/event/agu2024/thick_hu7422435093330889964.webp 1200w"
+src="https://home.xumijian.me/event/agu2024/thick_hu501982218536669005.webp"
+width="760"
+height="461"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h3 id="synthetic-test-continental-subduction">Synthetic Test: continental subduction&lt;/h3>
+&lt;p>We further conducted a synthetic test to evaluate the capability of the RF-FWI to recover the 3-D structure with a continental subduction. The results show high-resolution low-velocity continental slab and high-velocity mantle wedge.&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/event/agu2024/slab_hu278096121711335219.webp 400w,
+/event/agu2024/slab_hu13156053788461179350.webp 760w,
+/event/agu2024/slab_hu1301676067981583024.webp 1200w"
+src="https://home.xumijian.me/event/agu2024/slab_hu278096121711335219.webp"
+width="760"
+height="498"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;figure id="figure-the-evolution-of-the-rf-fwi-for-the-continental-subduction-model">
+&lt;div class="flex justify-center ">
+&lt;div class="w-100" >&lt;img alt="The evolution of the RF-FWI for the continental subduction model."
+src="https://home.xumijian.me/event/agu2024/movie.gif"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+The evolution of the RF-FWI for the continental subduction model.
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;h2 id="application-of-rf-fwi-to-se-tibet">Application of RF-FWI to SE Tibet&lt;/h2>
 &lt;p>In this case, we selected teleseismic receiver functions recorded by a linear seismic array in southeastern Tibet. We used the adjoint method to invert for 3-D Vp, Vs, and density structures. The checkerboard test demonstrates the capability of the receiver function FWI to recover the 3-D structure of the lithosphere.&lt;/p>
 &lt;p>
 &lt;figure id="figure-a-tectonics-in-the-se-asia-gray-lines-denote-major-tectonic-boundaries-the-red-box-shows-the-study-region-b-topographic-map-of-the-ailaoshan-red-river-shear-zone-and-adjacent-regions-the-24-red-triangles-denote-seismic-stations-deployed-by-nanjing-university-nju-the-14-blue-triangles-denote-stations-deployed-by-the-chinarray-project-the-two-brown-triangles-are-stations-from-china-national-seismic-network-blue-lines-represent-boundary-faults-the-black-box-shows-the-boundaries-of-the-model-the-abbreviations-are-alsf-ailaoshan-fault-arsz-ailaoshan-red-river-shear-zone-rrf-red-river-fault-c-earthquakes-with-agglomerative-clustering-the-earthquakes-are-grouped-into-31-clusters-indicated-by-different-colors-d-locations-of-virtual-events-colors-denote-weights-of-events">
@@ -315,7 +354,7 @@ console.log('code block');
 &lt;p>Hugo Blox supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-732861594" class="chart">&lt;/div>
+&lt;div id="chart-496583217" class="chart">&lt;/div>
 &lt;script>
 async function fetchChartJSON() {
 console.debug('Hugo Blox fetching chart JSON...')
@@ -331,7 +370,7 @@ return;
 clearInterval( a );
 fetchChartJSON().then(chart => {
 console.debug('Plotting chart...')
-window.Plotly.newPlot('chart-732861594', chart.data, chart.layout, {responsive: true});
+window.Plotly.newPlot('chart-496583217', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
